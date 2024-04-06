@@ -1,0 +1,11 @@
+[2023-12-29 16:56:13,732][run_smile.py][line:111][INFO] start training!
+[2023-12-29 17:44:55,560][run_smile.py][line:141][INFO] Epoch:[0/101]	 loss = 53.86499	 kl = 7.25705	 rec = 44.81306	
+[2023-12-29 17:54:12,315][run_smile.py][line:141][INFO] Epoch:[1/101]	 loss = 47.12370	 kl = 2.63775	 rec = 43.84207	
+[2023-12-29 18:01:34,034][run_smile.py][line:141][INFO] Epoch:[2/101]	 loss = 46.31158	 kl = 2.09822	 rec = 43.59653	
+[2023-12-29 18:18:21,230][run_smile.py][line:141][INFO] Epoch:[3/101]	 loss = 46.10546	 kl = 1.95323	 rec = 43.53348	
+[2023-12-29 18:25:20,428][run_smile.py][line:141][INFO] Epoch:[4/101]	 loss = 46.10265	 kl = 1.92458	 rec = 43.55911	
+[2023-12-29 18:32:18,485][run_smile.py][line:141][INFO] Epoch:[5/101]	 loss = 46.08878	 kl = 1.93205	 rec = 43.53237	
+[2023-12-29 18:39:16,498][run_smile.py][line:141][INFO] Epoch:[6/101]	 loss = 46.02648	 kl = 1.91419	 rec = 43.48834	
+[2023-12-29 18:46:11,815][run_smile.py][line:141][INFO] Epoch:[7/101]	 loss = 45.92553	 kl = 1.90183	 rec = 43.39392	
+[2023-12-29 18:53:11,471][run_smile.py][line:141][INFO] Epoch:[8/101]	 loss = 45.96468	 kl = 1.89188	 rec = 43.42416	
+[2023-12-29 19:00:05,733][run_smile.py][line:141][INFO] Epoch:[9/101]	 loss = 45.88286	 kl = 1.87915	 rec = 43.36903	

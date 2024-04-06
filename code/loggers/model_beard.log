@@ -1,0 +1,11 @@
+[2024-04-06 16:13:38,795][run_beard.py][line:111][INFO] start training!
+[2024-04-06 16:58:26,789][run_beard.py][line:141][INFO] Epoch:[0/10]	 loss = 45.79211	 kl = 1.90308	 rec = 43.27889	
+[2024-04-06 17:23:45,112][run_beard.py][line:141][INFO] Epoch:[1/10]	 loss = 41.92241	 kl = 0.17386	 rec = 41.51242	
+[2024-04-06 17:41:55,351][run_beard.py][line:141][INFO] Epoch:[2/10]	 loss = 41.42742	 kl = 0.15346	 rec = 41.05774	
+[2024-04-06 17:54:00,282][run_beard.py][line:141][INFO] Epoch:[3/10]	 loss = 40.94159	 kl = 0.19068	 rec = 40.54170	
+[2024-04-06 18:11:06,573][run_beard.py][line:141][INFO] Epoch:[4/10]	 loss = 40.71881	 kl = 0.18165	 rec = 40.31972	
+[2024-04-06 18:33:10,346][run_beard.py][line:141][INFO] Epoch:[5/10]	 loss = 40.57952	 kl = 0.17114	 rec = 40.18497	
+[2024-04-06 18:44:27,697][run_beard.py][line:141][INFO] Epoch:[6/10]	 loss = 40.44201	 kl = 0.17656	 rec = 40.03489	
+[2024-04-06 18:56:35,041][run_beard.py][line:141][INFO] Epoch:[7/10]	 loss = 40.36763	 kl = 0.17311	 rec = 39.96078	
+[2024-04-06 19:21:04,788][run_beard.py][line:141][INFO] Epoch:[8/10]	 loss = 40.33615	 kl = 0.16696	 rec = 39.93253	
+[2024-04-06 19:41:56,163][run_beard.py][line:141][INFO] Epoch:[9/10]	 loss = 40.31274	 kl = 0.16038	 rec = 39.91314	
